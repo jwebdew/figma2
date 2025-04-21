@@ -6,4 +6,4 @@ https://www.figma.com/design/beQcV8jUP6MXJzalp8KcNq/Uicons-by-Flaticon-%7C-Free-
 
 
 ## 공유
-https://www.figma.com/design/5us4dFwrmSEq087RyFldne/%EC%9E%AC%EC%A7%81%EC%9E%90-%ED%94%BC%EA%B7%B8%EB%A7%88-25-2%ED%9A%8C%EC%B0%A8?node-id=0-1&p=f&t=BWE5BtZs8ZR9qdNO-0
+https://www.figma.com/design/5us4dFwrmSEq087RyFldne/p-2?node-id=0-1&p=f&t=yMGuBw1wM8aWhRyB-0
