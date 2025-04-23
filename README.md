@@ -9,6 +9,7 @@ https://www.figma.com/design/beQcV8jUP6MXJzalp8KcNq/Uicons-by-Flaticon-%7C-Free-
 https://www.figma.com/design/5us4dFwrmSEq087RyFldne/p-2?node-id=0-1&p=f&t=yMGuBw1wM8aWhRyB-0
 
 ## 앱화면
+<img src="https://github.com/user-attachments/assets/75938f22-ed89-4174-a241-ed4a72523c95" width="200px" height="auto" alt="앱화면 1" />
 ![Image](https://github.com/user-attachments/assets/75938f22-ed89-4174-a241-ed4a72523c95)
 ![Image](https://github.com/user-attachments/assets/7a533edf-5707-452a-a703-0bb1c100d834)
 ![Image](https://github.com/user-attachments/assets/447ce9a6-308d-4903-b701-a6e0a2a02f6c)
