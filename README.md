@@ -9,7 +9,7 @@ https://www.figma.com/design/beQcV8jUP6MXJzalp8KcNq/Uicons-by-Flaticon-%7C-Free-
 <a href="https://www.figma.com/proto/WEPuCzuhlVlXMIKg57agCa/figma-%EB%A8%B8%EB%8B%88%ED%8A%B8%EB%A6%AC?node-id=14-89&t=37OOFFT5csqpmCeA-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=14%3A89" target="_blank">https://www.figma.com/proto/WEPuCzuhlVlXMIKg57agCa/figma-%EB%A8%B8%EB%8B%88%ED%8A%B8%EB%A6%AC?node-id=14-89&t=37OOFFT5csqpmCeA-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=14%3A89</a>
 
 ### 머니트리 작업화면
-<a href="https://www.figma.com/design/WEPuCzuhlVlXMIKg57agCa/figma-%EB%A8%B8%EB%8B%88%ED%8A%B8%EB%A6%AC?node-id=14-89&t=37OOFFT5csqpmCeA-0">https://www.figma.com/design/WEPuCzuhlVlXMIKg57agCa/figma-%EB%A8%B8%EB%8B%88%ED%8A%B8%EB%A6%AC?node-id=14-89&t=37OOFFT5csqpmCeA-0</a>
+<a href="https://www.figma.com/design/WEPuCzuhlVlXMIKg57agCa/figma-%EB%A8%B8%EB%8B%88%ED%8A%B8%EB%A6%AC?node-id=14-89&t=37OOFFT5csqpmCeA-0" target="_blank">https://www.figma.com/design/WEPuCzuhlVlXMIKg57agCa/figma-%EB%A8%B8%EB%8B%88%ED%8A%B8%EB%A6%AC?node-id=14-89&t=37OOFFT5csqpmCeA-0</a>
 
 
 ## 공유
