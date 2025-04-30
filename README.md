@@ -5,7 +5,10 @@
 https://www.figma.com/design/beQcV8jUP6MXJzalp8KcNq/Uicons-by-Flaticon-%7C-Free-interface-icons--Community-?node-id=7-221&p=f&t=SNngMmJB1gOljanP-0
 
 ## 머니트리 프로토타입
-https://www.figma.com/proto/2egVESP021dI1kPGyTwI7C/%EB%A8%B8%EB%8B%88%ED%8A%B8%EB%A6%AC?node-id=14-89&p=f&t=RnntHwwV6Wxnk3co-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=14%3A89
+https://www.figma.com/proto/WEPuCzuhlVlXMIKg57agCa/figma-%EB%A8%B8%EB%8B%88%ED%8A%B8%EB%A6%AC?node-id=14-89&t=37OOFFT5csqpmCeA-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=14%3A89
+
+## 머니트리 작업화면
+https://www.figma.com/design/WEPuCzuhlVlXMIKg57agCa/figma-%EB%A8%B8%EB%8B%88%ED%8A%B8%EB%A6%AC?node-id=14-89&t=37OOFFT5csqpmCeA-0
 
 ## 공유
 https://www.figma.com/design/5us4dFwrmSEq087RyFldne/p-2?node-id=0-1&p=f&t=yMGuBw1wM8aWhRyB-0
